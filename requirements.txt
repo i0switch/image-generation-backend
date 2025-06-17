@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+diffusers
+accelerate
+transformers
+opencv-python-headless
+Pillow
+python-multipart
+# InstantIDに必要なライブラリ
+insightface
+onnxruntime
